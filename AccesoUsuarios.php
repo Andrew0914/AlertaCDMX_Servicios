@@ -1,7 +1,5 @@
 
 <?php 
-include('Connector.php');
-
 	class AccesoUsuarios{
 
 		private $user_id="";
